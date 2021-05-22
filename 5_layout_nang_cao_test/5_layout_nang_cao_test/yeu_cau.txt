@@ -1,0 +1,10 @@
+Bài 5 (TEST LAYOUT NÂNG CAO): 
+
+Đề bài: Chuyển layout từ file PSD sang SCSS, Kit, Build bằng Prepros Tool
+
+Yêu cầu: 
+- Sử dụng Bootstrap 3
+- SCSS (không sử dụng flex, grid)
+- Sử dụng JS, jQuery, thư viện JS, jQuery
+- Sử dụng Kit language để code layout
+- Dùng tool prepros để build, compile source.
